@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\VIT\\Fallsem 2019\\NNDL\\Project\\Self-Driving-Car-master\\data1\\saver\\model.ckpt"
+all_model_checkpoint_paths: "G:\\VIT\\Fallsem 2019\\NNDL\\Project\\Self-Driving-Car-master\\data1\\saver\\model.ckpt"
